@@ -1,0 +1,3 @@
+Successfully opened port 80
+Internet connection OK
+A student connected to www.github.com

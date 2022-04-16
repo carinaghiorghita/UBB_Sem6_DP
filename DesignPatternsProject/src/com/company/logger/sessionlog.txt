@@ -1,0 +1,6 @@
+Successfully opened port 80
+Internet connection OK
+A student connected to www.github.com
+Successfully opened port 80
+Internet connection OK
+A student tried to access a site that is not allowed: www.youtube.com
